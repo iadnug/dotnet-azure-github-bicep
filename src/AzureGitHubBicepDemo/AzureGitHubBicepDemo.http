@@ -1,0 +1,6 @@
+@AzureGitHubBicepDemo_HostAddress = http://localhost:5174
+
+GET {{AzureGitHubBicepDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
